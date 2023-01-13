@@ -52,4 +52,4 @@
 
 [![My GitHub Stats](https://my-repo-latest.vercel.app/api?username=aryans1204)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](my-repo-latest.vercel.app/api/top-langs/?username=aryans1204)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://my-repo-latest.vercel.app/api/top-langs/?username=aryans1204)](https://github.com/anuraghazra/github-readme-stats)
