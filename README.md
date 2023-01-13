@@ -50,6 +50,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aryans1204&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![My GitHub Stats](https://my-repo-latest.vercel.app/api?username=aryans1204)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://my-repo-latest.vercel.app/api?username=aryans1204&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://my-repo-latest.vercel.app/api/top-langs/?username=aryans1204&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://my-repo-latest.vercel.app/api/top-langs/?username=aryans1204&hide=Jupyter%20Notebook&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
