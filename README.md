@@ -45,6 +45,7 @@
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" width="60" height="60"/>
 </div>
 
 ---
