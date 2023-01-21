@@ -16,7 +16,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div><i class="icon-cassandra"></i> icon-cassandra
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="80" height="80"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
@@ -46,7 +46,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" width="80" height="80"/>
-  <i class="icon-cassandra"></i> icon-cassandra
 </div>
 
 ---
