@@ -16,7 +16,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div><i class="icon-cassandra"></i> icon-cassandra
+<div><i class="icon-cassandra"></i>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="80" height="80"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
