@@ -46,6 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Kafka" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" width="80" height="80"/>
+  <i class="icon-cassandra"></i> icon-cassandra
 </div>
 
 ---
