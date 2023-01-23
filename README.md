@@ -8,9 +8,7 @@
   </a>
  </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/gifs/feelgood-3o7bug2wkdhpf7kbFS/giphy.gif" width="100" height="60"/>
-</div>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1020909809257510331" height="356" width="345" frameborder="0" scrolling="no" ></iframe>
 
 
 ---
