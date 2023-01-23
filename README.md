@@ -9,7 +9,7 @@
  </div>
 
 <div align="center">
-  <img src="https://giphy.com/embed/3o7bug2wkdhpf7kbFS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/feelgood-3o7bug2wkdhpf7kbFS">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/3o7bug2wkdhpf7kbFS" width="480" height="270" frameBorder="0" class="giphy-embed"/>
 </div>
 
 ---
