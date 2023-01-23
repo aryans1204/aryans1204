@@ -9,7 +9,7 @@
  </div>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/feelgood-3o7bug2wkdhpf7kbFS/giphy.gif" width="100" height="60"/>
+  <img src="https://media.giphy.com/gifs/feelgood-3o7bug2wkdhpf7kbFS/giphy.gif" width="100" height="60"/>
 </div>
 
 
