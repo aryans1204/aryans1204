@@ -33,6 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="80" height="80"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" width="80" height="80"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" width="80" height="80"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" width="80" height="80"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" width="80" height="80"/>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" width="80" height="80"/>
