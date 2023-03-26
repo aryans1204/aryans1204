@@ -49,6 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="ArgoCD" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache-cassandra-icon.png" title="Cassandra" width="80" height="80"/>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" width="80" height="80"/>
 </div>
 
 ---
