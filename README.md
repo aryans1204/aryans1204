@@ -8,7 +8,7 @@
   </a>
  </div>
  
- ![alt-text](Screenshot 2023-04-02 at 11.04.25 AM.png)
+ ![alt-text](duhast.png)
 
  ![alt-text](_.gif)
 
