@@ -9,8 +9,8 @@
  </div>
 
 
- <div align="center">
-   <img src="duhast.png"/>
+ <div align="center" width="1000" heigh="1000">
+   <img src="ok.png"/>
  </div>
 <div align="center">
   <img src="_.gif" width="2000"/>
