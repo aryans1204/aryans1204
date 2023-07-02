@@ -13,10 +13,8 @@
    <img src="duhast.png"/>
  </div>
 <div align="center">
-  <img src="_.gif" width="300"/>
+  <img src="_.gif" width="2000"/>
 </div>
- ![alt-text](_.gif)
-
 
 
 ---
