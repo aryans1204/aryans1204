@@ -7,13 +7,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
- 
- ![alt-text](duhast.png)
+
 
  <div align="center">
    <img src="duhast.png"/>
  </div>
-
+<div align="center">
+  <img src="_.gif" width="300"/>
+</div>
  ![alt-text](_.gif)
 
 
