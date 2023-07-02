@@ -10,8 +10,8 @@
  
  ![alt-text](duhast.png)
 
- <div>
-   <img src="duhast.png" align="center"/>
+ <div align="center">
+   <img src="duhast.png"/>
  </div>
 
  ![alt-text](_.gif)
